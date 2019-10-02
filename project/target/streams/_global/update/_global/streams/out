@@ -1,3 +1,3 @@
-[debug] "not up to date. inChanged = false, force = false
-[debug] Updating ProjectRef(uri("file:/E:/Spark-Workspace/ReadingFilesOfDifferentFormatsUsingSpark/project/"), "readingfilesofdifferentformatsusingspark-build")...
-[debug] Done updating ProjectRef(uri("file:/E:/Spark-Workspace/ReadingFilesOfDifferentFormatsUsingSpark/project/"), "readingfilesofdifferentformatsusingspark-build")
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/E:/git-workspace/Spark-Scala-Repo/project/"), "spark-scala-repo-build")...
+[debug] Done updating ProjectRef(uri("file:/E:/git-workspace/Spark-Scala-Repo/project/"), "spark-scala-repo-build")
